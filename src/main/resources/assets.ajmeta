@@ -1,0 +1,20 @@
+{
+	"creaturecrumbs": {
+		"files": [
+			"assets/animated_java/models/empty.json",
+			"assets/animated_java/models/item/creaturecrumbs/main.json",
+			"assets/animated_java/models/item/creaturecrumbs/leftpupil.json",
+			"assets/animated_java/models/item/creaturecrumbs/rightpupil.json",
+			"assets/animated_java/models/item/creaturecrumbs/eyes.json",
+			"assets/animated_java/models/item/creaturecrumbs/rightarm.json",
+			"assets/animated_java/models/item/creaturecrumbs/leftarm.json",
+			"assets/animated_java/models/item/creaturecrumbs/leftleg.json",
+			"assets/animated_java/models/item/creaturecrumbs/rightleg.json",
+			"assets/animated_java/textures/item/creaturecrumbs/arms.png",
+			"assets/animated_java/textures/item/creaturecrumbs/schlera.png",
+			"assets/animated_java/textures/item/creaturecrumbs/pupil.png",
+			"assets/animated_java/textures/item/creaturecrumbs/8bit_log_copy.png",
+			"assets/animated_java/textures/item/transparent.png"
+		]
+	}
+}

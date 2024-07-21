@@ -35,9 +35,9 @@ loom {
 dependencies {
 	// To change the versions see the gradle.properties file
 	minecraft "com.mojang:minecraft:${project.minecraft_version}"
-	mappings loom.officialMojangMappings()
+	mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
-	modImplementation "maven.modrinth:nylon:0.9.16"
+	modImplementation "maven.modrinth:nylon:0.10.0"
 	modImplementation "eu.pb4:polymer-core:0.9.5+1.21"
 	modImplementation "eu.pb4:polymer-networking:0.9.5+1.21"
 	modImplementation "eu.pb4:polymer-resource-pack:0.9.5+1.21"
